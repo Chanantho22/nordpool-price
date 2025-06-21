@@ -18,4 +18,4 @@ Client side does not require any build steps:
 * Web Components (using lightweight [lit-element](https://www.skypack.dev/view/lit-element))
 * Dependencies loaded using [Skypack](https://skypack.dev)
 
-Use `npm start` to run locally.
+Use `npm start` to run locally
